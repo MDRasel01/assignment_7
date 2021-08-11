@@ -1,0 +1,591 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* 
+font-family: 'Poppins', sans-serif; 
+*/
+
+/* navber code start here */
+
+h1,h2, h3, h4, h5, h6{
+    font-family: 'Poppins', sans-serif; 
+}
+
+p{
+    color:#afb0b3;
+}
+.header{
+     padding: 20px 0px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: rgb(124, 121, 121);
+}
+
+.b-btn{
+    text-decoration: none;
+    padding: 12px 29px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.nav-item{
+    padding-left: 19px;
+font-weight: 600;
+font-size: 17px;
+}
+
+/* navber code end here*/
+
+
+/* banner code start here*/
+.banner_2ns_p{
+    padding-right: 111px;
+    font-size: 19px;
+    margin: 26px 0px;
+    font-weight: 500;
+}
+
+.banner{
+    background-image: url('../image/sec2_moble_responsive.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 151vh;
+    margin: 24px 0px;
+}
+
+.banner_text{
+    height: 100vh;
+display: table-cell;
+vertical-align: middle;
+}
+
+.banner_btn a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: #00f;
+    margin-left: 24px;
+    font-weight: 400;
+
+}
+
+.banner_text h1{
+    font-size:60px;
+    margin: 10px auto;
+    
+}
+
+.banner_btn, .b-btn{
+    margin-left: 0px;
+}
+
+
+
+.sub_image{
+    background-color: orange;
+    border-radius: 35px;
+    padding: 7px;
+    margin-left: 0px;
+}
+
+.sub_span{
+    color: #4a4a4a;
+    font-size: 16px;
+    display: inline-block;
+    margin: 0px;
+        margin-right: 0px;
+    margin-right: 0px;
+    background-color: #e3e3e3;
+    border-radius: 35px;
+    margin-right: 20px;
+    font-weight: 550
+}
+
+/* banner code end here*/
+
+
+/* company code start here */
+
+.comaony_image img{
+    margin: 50px 0px;
+    height: 50px;
+    padding-right: 57px;
+}
+.compeny_logo{
+    margin: 70px 0px 100px 0px;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    width: 10px;
+    height: 10px;
+    margin: 5px 7px;
+    background: #D6D6D6;
+    display: none;
+    -moz-webkit-backface-visibility: visible;
+    transition: opacity 200ms ease;
+    border-radius: 30px;
+}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    background: 0 0;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+    display: none;
+}
+
+
+/* company code end here */
+
+
+/* apps features code start here*/
+.features_text{
+    margin: 46px 0px;
+    
+}
+
+.imageicon img{
+    height: 60px;
+margin-right: 35px;
+}
+
+.f_text p{
+    margin: 0px;
+    padding-right: 138px;
+    font-size: 15px;
+
+}
+.f_text_1{
+color: #f55767;
+font-weight: bold;
+}
+
+.f_text_2{
+color: #2563ff;
+font-weight: bold;
+}
+
+.f_text_3{
+color: #40975f;
+font-weight: bold;
+}
+.f_text_up h1{
+    font-size: 45px;
+}
+
+.f_text_up p {
+    padding-right: 100px;
+}
+/* apps features code end here*/
+
+
+/* simple text code start here */
+
+.simple_r{
+    border-left: 2px solid #dfe0e6;
+    height: 142px;
+}
+
+.simple_r p{
+    font-size: 21px;
+    color: #616368;
+    margin: 32px 0px 0px 41px;
+}
+
+.simple_l h1{
+    font-size: 42px;
+    color: #242f51;
+    padding-right: 81px;
+    font-weight: bold;
+}
+/* simple text code end here */
+
+
+/* icon part code start here */
+
+.all_icon{
+    text-align: left;
+}
+
+.all_icon p{
+    font-size: 16px;
+padding-right: 98px;
+}
+
+.icon_part{
+    margin: 100px 0px;
+}
+/* icon part code end here */
+
+
+
+/* design built code here */
+.design_built{
+    margin-top: 82px;
+}
+.d_r p{
+    font-size: 19px;
+    color: #616368;
+    margin-top: 25px;
+}
+
+
+.design_built_buttton{
+    text-decoration: none;
+    padding: 14px 41px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    margin-top: 29px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+.d_r h1{
+    padding-right: 40px;
+    margin: 0px;
+}
+
+
+.d_r{
+    margin: 160px 0px;
+}
+/* design biult code here */
+
+/* choose app code start here */
+
+.choose_up {
+    text-align: center;
+
+}
+.choose_up h1{
+    font-size: 37px;
+font-weight: bold;
+
+}
+
+.choose_up p{
+    font-weight: 600;
+color: #616368;
+margin: 27px 0px;
+font-size: 17px;
+
+}
+
+.choose_down{
+    text-align: center;
+}
+
+.choose_down p{
+    margin: 0px 43px;
+    font-weight: 450;
+    color: #888;
+    font-size: 16.5px;
+}
+
+.choose_down h5{
+    font-weight: bold;
+margin-top: 32px;
+
+}
+
+.choose_down_all{
+    margin: 50px 0px;
+}
+/* choose app code end here */
+
+
+
+
+
+/* altimate features code start here */
+.ultimatef {
+    position: relative;
+}
+
+.uf_down{
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
+.uf_left h1{
+    font-weight: bold;
+}
+
+.uf_left p{
+    padding-right: 200px;
+font-size: 18px;
+font-weight: 400;
+
+}
+.uf_right p{
+    text-align: left;
+    padding-right: 60px;
+}
+
+.uf_right h5{
+    font-weight: bold;
+margin-top: 35px;
+
+}
+
+.uf_right{
+    text-align: left;
+    margin-top: 36px;
+}
+
+.uf_left_button{
+    text-decoration: none;
+    padding: 14px 54px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    margin-top: 24px;
+    font-weight: bold;
+    font-size: 17px;
+    display: inline-block;
+}
+
+
+/* altimate featires code end here */
+
+
+
+/*prcicing section  code start here  */
+.pricing_left{
+    text-align: center;
+}
+.price_btn{
+    border: none;
+    padding: 6px 11px;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: transparent;
+}
+
+.price_controller{
+    border: 2px solid rgb(219, 216, 216);
+    padding: 1px 1px;
+    border-radius: 35px;
+    display: inline-block;
+}
+
+.active2{
+    background-color: blue;
+    color: white;
+    border-radius: 35px;
+}
+
+.card{
+    text-align: center;
+    margin: 30px 0px;
+    border: 2px solid #e8e8e8;
+}
+
+.card-header h2 span{
+    font-size: 14px;
+    color: rgb(189, 189, 189);
+}
+
+.card-header h5{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-header p, .card-body p{
+    font-size: 15px;
+    color: rgb(189, 189, 189);
+    font-weight: bold;
+
+}
+.card-header{
+    border: none;
+}
+
+.card-body p{
+    margin-bottom: 22px;
+}
+
+.card-body{
+    margin: 13px 0px;
+}
+
+.trail{
+    color: blue !important;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.card-active{
+    box-shadow: 2px 2px 40px 9px #eee9e9;
+
+}
+
+/*Client Satisfaction code start here  */
+
+.client {
+    position: relative;
+    margin: 50px 0px;
+}
+
+.client_photo{
+    position: absolute;
+    left: 0px;
+    top: 47px;
+    height: 89vh;
+}
+
+.client_right h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.client_right_p_1{
+    padding: 20px 50px 20px 0px;
+    font-size: 17px;
+    color: #8c8585;
+    font-weight: 500;
+    font-weight: 550;
+}
+
+.star{
+    color: orange;
+
+}
+
+.rating_1st{
+    margin: 0px;
+    font-weight: 650;
+    margin: 20px 0px;
+}
+
+.rating p{
+    color: #777;
+    font-size: 17px;
+    font-weight: 550;
+}
+
+.star i{
+    font-size: 20px;
+}
+
+.mans_full{
+    margin-top: 40px;
+}
+.profile_text_h{
+margin-top: 17px;
+}
+
+.profile_text{
+    margin-left: 20px;
+}
+
+/*Client Satisfaction code end here  */
+
+
+
+/* faq code start here */
+.faq{
+    border-bottom: 1px solid rgb(228, 226, 226);
+}
+
+#accordionExample{
+margin-bottom: 50px;
+}
+.faq_head{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.faq_item{
+    margin: 50px 0px
+}
+/*faq code end here  */
+
+
+
+/* download code start here */
+.dowload_now {
+    position: relative;
+    margin: 50px 0px;
+}
+
+.download_image{
+    position: absolute;
+    right: 0px;
+}
+
+.download p{
+    margin: 25px 0px;
+    font-weight: 600;
+    font-size: 14px;
+    padding-right: 16px;
+}
+
+.download h1{
+    font-weight: bold;
+}
+
+.download_img1{
+    margin-right: 30px;
+}
+/* download code end here */
+
+
+/*footer code start here  */
+
+.footer{
+    background-color: #09142e;
+}
+
+.alltext{
+    padding: 64px 0px;
+    text-align: center;
+}
+.alltext h1{
+    color: orange;
+    font-weight: bold;
+    font-size: 29px;
+}
+
+.alltext span{
+    color: white;
+    font-weight: bold;
+}
+
+.alltext ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 29px 15px;
+}
+
+.alltext ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+.alltext p{
+    font-size: 14px;
+    color: #5f636e;
+    font-weight: bold;
+    margin-top: 70px;
+}
+/*footer code end here  */
+
+
+
